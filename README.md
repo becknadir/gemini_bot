@@ -42,6 +42,18 @@ pip install -r requirements.txt
    python gemini_chatbot_gui.py
    ```
 
+4. Optional environment:
+
+   a. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   ```
+
+   b. run the virtual environment
+   ```bash
+   venv\Scripts\activate
+   ```
+
 ## Usage
 
 ### Command Line Interface
